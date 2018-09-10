@@ -291,6 +291,10 @@ body {
     margin-right: 0;
 }
 
+.home-social-media > a > img {
+    width: 30px;
+}
+
 .home-social-facebook {
     color: #0D71BA;
 }
